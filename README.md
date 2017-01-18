@@ -1,2 +1,2 @@
 # WebScrapingWithPython
-Learning hwo to web scraping with python
+Learning how to web scraping with python
